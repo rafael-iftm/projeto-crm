@@ -54,3 +54,15 @@ Armazena dados dos vendedores.
 |--------------|-------------|----------------|--------------------------------------|
 | idVendedor   | INT         | Sim            | Identificador único do vendedor (autoincremento). |
 | nomeVendedor | VARCHAR(255)| Não            | Nome do vendedor.                    |
+
+
+## Diagrama Entidade-Relacionamento
+
+![Diagrama Entidade-Relacionamento](../img/diagrama1.jpg)
+
+
+## Diagrama Entidade-Relacionamento
+
+![Diagrama 2](../img/diagrama2.jpg)
+
+Esperamos que esta documentação ajude a entender a estrutura do banco de dados do projeto CRM.
