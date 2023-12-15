@@ -61,7 +61,7 @@ Armazena dados dos vendedores.
 ![Diagrama Entidade-Relacionamento](../img/diagrama1.jpg)
 
 
-## Diagrama Entidade-Relacionamento
+## Diagrama Relacional
 
 ![Diagrama 2](../img/diagrama2.jpg)
 
